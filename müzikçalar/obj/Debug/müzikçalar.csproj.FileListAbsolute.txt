@@ -1,0 +1,38 @@
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe.config
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csprojResolveAssemblyReference.cache
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\Interop.WMPLib.dll
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.ResolveComReference.cache
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.Form1.resources
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.Properties.Resources.resources
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.GenerateResource.Cache
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\bin\Debug\müzikçalar.pdb
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\bin\Debug\Interop.WMPLib.dll
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.exe
+C:\Users\istanbul-bilgi\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.pdb
+C:\Users\İlyas TUNÇ\Desktop\c#-form\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe.config
+C:\Users\İlyas TUNÇ\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\Interop.WMPLib.dll
+C:\Users\İlyas TUNÇ\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\İlyas TUNÇ\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.ResolveComReference.cache
+C:\Users\İlyas TUNÇ\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.exe
+C:\Users\İlyas TUNÇ\Desktop\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.pdb
+C:\Users\İlyas TUNÇ\Desktop\debuğğ\c#-form\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe.config
+C:\Users\İlyas TUNÇ\Desktop\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\Interop.WMPLib.dll
+C:\Users\İlyas TUNÇ\Desktop\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\İlyas TUNÇ\Desktop\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.ResolveComReference.cache
+C:\Users\İlyas TUNÇ\Desktop\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.exe
+C:\Users\İlyas TUNÇ\Desktop\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.pdb
+E:\debuğğ\c#-form\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe.config
+E:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\Interop.WMPLib.dll
+E:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\AxInterop.WMPLib.dll
+E:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.ResolveComReference.cache
+E:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.exe
+E:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.pdb
+D:\debuğğ\c#-form\müzikçalar\müzikçalar\bin\Debug\müzikçalar.exe.config
+D:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\Interop.WMPLib.dll
+D:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\AxInterop.WMPLib.dll
+D:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.csproj.ResolveComReference.cache
+D:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.exe
+D:\debuğğ\c#-form\müzikçalar\müzikçalar\obj\Debug\müzikçalar.pdb
